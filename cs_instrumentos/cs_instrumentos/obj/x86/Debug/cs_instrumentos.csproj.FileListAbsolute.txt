@@ -1,0 +1,79 @@
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\cs_instrumentos.exe
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\cs_instrumentos.pdb
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.csprojResolveAssemblyReference.cache
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.FAgregar.resources
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.FPrincipal.resources
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.Properties.Resources.resources
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.csproj.GenerateResource.Cache
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.exe
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.pdb
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\Libreria_instrumento.dll
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\Libreria_instrumento.pdb
+E:\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.exe
+E:\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.pdb
+E:\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\cs_instrumentos.exe
+E:\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\cs_instrumentos.pdb
+E:\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\Libreria_instrumento.dll
+E:\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\Libreria_instrumento.pdb
+E:\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.FAgregar.resources
+E:\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.FPrincipal.resources
+E:\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.Properties.Resources.resources
+E:\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Malensita\Documents\Materias\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.exe
+K:\Malensita\Documents\Materias\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.pdb
+K:\Malensita\Documents\Materias\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\cs_instrumentos.exe
+K:\Malensita\Documents\Materias\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\cs_instrumentos.pdb
+K:\Malensita\Documents\Materias\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\Libreria_instrumento.dll
+K:\Malensita\Documents\Materias\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\Libreria_instrumento.pdb
+K:\Malensita\Documents\Materias\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.csprojResolveAssemblyReference.cache
+K:\Malensita\Documents\Materias\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.FAgregar.resources
+K:\Malensita\Documents\Materias\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.FPrincipal.resources
+K:\Malensita\Documents\Materias\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.Properties.Resources.resources
+K:\Malensita\Documents\Materias\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.csproj.GenerateResource.Cache
+A:\Documents\Materias\Tecnicatura en Computación\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\cs_instrumentos.exe
+A:\Documents\Materias\Tecnicatura en Computación\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\cs_instrumentos.pdb
+A:\Documents\Materias\Tecnicatura en Computación\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\Libreria_instrumento.dll
+A:\Documents\Materias\Tecnicatura en Computación\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\Libreria_instrumento.pdb
+A:\Documents\Materias\Tecnicatura en Computación\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.csprojResolveAssemblyReference.cache
+A:\Documents\Materias\Tecnicatura en Computación\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.FAgregar.resources
+A:\Documents\Materias\Tecnicatura en Computación\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.FPrincipal.resources
+A:\Documents\Materias\Tecnicatura en Computación\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.Properties.Resources.resources
+A:\Documents\Materias\Tecnicatura en Computación\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.csproj.GenerateResource.Cache
+A:\Documents\Materias\Tecnicatura en Computación\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.csproj.CoreCompileInputs.cache
+A:\Documents\Materias\Tecnicatura en Computación\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.exe
+A:\Documents\Materias\Tecnicatura en Computación\Diseño y Desarrollo\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.pdb
+D:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.exe
+D:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.pdb
+D:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\cs_instrumentos.exe
+D:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\cs_instrumentos.pdb
+D:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\Libreria_instrumento.dll
+D:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\Libreria_instrumento.pdb
+D:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.csprojResolveAssemblyReference.cache
+D:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.FAgregar.resources
+D:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.FPrincipal.resources
+D:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.Properties.Resources.resources
+D:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.csproj.GenerateResource.Cache
+C:\Users\disenio.SRVR_COMERCIO\Desktop\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.exe
+C:\Users\disenio.SRVR_COMERCIO\Desktop\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.pdb
+C:\Users\disenio.SRVR_COMERCIO\Desktop\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\cs_instrumentos.exe
+C:\Users\disenio.SRVR_COMERCIO\Desktop\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\cs_instrumentos.pdb
+C:\Users\disenio.SRVR_COMERCIO\Desktop\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\Libreria_instrumento.dll
+C:\Users\disenio.SRVR_COMERCIO\Desktop\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\Libreria_instrumento.pdb
+C:\Users\disenio.SRVR_COMERCIO\Desktop\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.csprojResolveAssemblyReference.cache
+C:\Users\disenio.SRVR_COMERCIO\Desktop\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.FAgregar.resources
+C:\Users\disenio.SRVR_COMERCIO\Desktop\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.FPrincipal.resources
+C:\Users\disenio.SRVR_COMERCIO\Desktop\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.Properties.Resources.resources
+C:\Users\disenio.SRVR_COMERCIO\Desktop\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.csproj.GenerateResource.Cache
+E:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.exe
+E:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.pdb
+E:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\cs_instrumentos.exe
+E:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\cs_instrumentos.pdb
+E:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\Libreria_instrumento.dll
+E:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Debug\Libreria_instrumento.pdb
+E:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.csprojResolveAssemblyReference.cache
+E:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.FAgregar.resources
+E:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.FPrincipal.resources
+E:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.Properties.Resources.resources
+E:\FINAL - Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Debug\cs_instrumentos.csproj.GenerateResource.Cache

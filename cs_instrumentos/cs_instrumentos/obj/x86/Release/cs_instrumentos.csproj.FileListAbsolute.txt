@@ -1,0 +1,11 @@
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Release\cs_instrumentos.exe
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Release\cs_instrumentos.pdb
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Release\Libreria_instrumento.dll
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\bin\Release\Libreria_instrumento.pdb
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Release\cs_instrumentos.csprojResolveAssemblyReference.cache
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Release\cs_instrumentos.FAgregar.resources
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Release\cs_instrumentos.FPrincipal.resources
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Release\cs_instrumentos.Properties.Resources.resources
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Release\cs_instrumentos.csproj.GenerateResource.Cache
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Release\cs_instrumentos.exe
+K:\Malensita\Desktop\Proyecto Instrumentos\cs_instrumentos\cs_instrumentos\obj\x86\Release\cs_instrumentos.pdb
